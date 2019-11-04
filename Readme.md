@@ -10,3 +10,12 @@
 
 ## スクリーンショット
 
+![9](https://raw.githubusercontent.com/t-kuni/ShootingGame/master/docs/screen9.png)
+
+![7](https://raw.githubusercontent.com/t-kuni/ShootingGame/master/docs/screen7.png)
+
+![8](https://raw.githubusercontent.com/t-kuni/ShootingGame/master/docs/screen8.png)
+
+![12](https://raw.githubusercontent.com/t-kuni/ShootingGame/master/docs/screen12.png)
+
+![14](https://raw.githubusercontent.com/t-kuni/ShootingGame/master/docs/screen14.png)
